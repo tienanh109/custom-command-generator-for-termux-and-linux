@@ -20,10 +20,21 @@ bash <(curl -s https://tienanh109.dev/api/gctools/setup)
 ```
 
 ### How to use?
-Update soon!
+1. Using command for list commands:
+```bash
+gc help
+```
+2. Select the command you want and use it according to the syntax:
+```bash
+gc <cmd>
+```
+
+Done! Now create your own command!!
 
 ### Features:
-Update soon!
+- Create custom commands
+- Delete custom commands
+- And more!
 
 
 .... Some thing update soon!
