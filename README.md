@@ -1,4 +1,5 @@
 # custom-command-generator-for-termux
+<img alt="Discord" src="https://img.shields.io/discord/1205813697361215568?label=Discord&style=for-the-badge&logo=discord&color=5865F2&logoColor=white">
 A custom command generator for termux, easy to use
 
 ## Setup
