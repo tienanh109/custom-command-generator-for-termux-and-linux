@@ -1,8 +1,8 @@
-# custom-command-generator-for-termux
+# custom-command-generator-for-linux
 <img alt="Discord" src="https://img.shields.io/discord/1205813697361215568?label=Discord&style=for-the-badge&logo=discord&color=5865F2&logoColor=white">
-A custom command generator for termux, easy to use
+A custom command generator for termux, linux, easy to use
 
-## Setup
+## Setup for Termux
 > NOTES: This tool will be updated continuously and requires internet to use
 1. First you need to install the **latest Termux** on their [GitHub](#)
 
