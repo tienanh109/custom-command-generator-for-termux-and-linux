@@ -9,14 +9,14 @@ A custom command generator for termux, easy to use
 pkg update && pkg upgrade && apt upgrade
 ```
 
-3. Install **wget**, using command:
+3. Install **curl**, using command:
 ```bash
-pkg install wget
+pkg install curl
 ```
 
 4. Install CG (Custom command generator for termux), using command:
 ```bash
-Update soon! Star to save this repo!
+bash <(curl -s https://tienanh109.dev/api/gctools/setup) 
 ```
 
 ### How to use?
