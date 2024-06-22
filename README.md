@@ -11,7 +11,7 @@ pkg update -y && pkg upgrade -y && apt upgrade -y
 
 3. Install **curl**, using command:
 ```bash
-pkg install curl
+pkg install curl -y
 ```
 
 4. Install CG (Custom command generator for termux), using command:
