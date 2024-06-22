@@ -24,6 +24,8 @@ bash <(curl -s https://tienanh109.dev/api/gctools/setup)
 ```bash
 bash <(curl -s https://tienanh109.dev/api/gctools/menu) 
 ```
+# Setup for Linux
+I'm lazy ._., same!
 
 ## How to use?
 1. Using command for list commands:
