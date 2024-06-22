@@ -18,6 +18,10 @@ pkg install curl
 ```bash
 bash <(curl -s https://tienanh109.dev/api/gctools/setup) 
 ```
+4.1 Or using fast menu if setup has error, using command:
+```bash
+bash <(curl -s https://tienanh109.dev/api/gctools/menu) 
+```
 
 ## How to use?
 1. Using command for list commands:
