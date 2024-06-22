@@ -19,7 +19,7 @@ pkg install curl
 bash <(curl -s https://tienanh109.dev/api/gctools/setup) 
 ```
 
-### How to use?
+## How to use?
 1. Using command for list commands:
 ```bash
 gc help
