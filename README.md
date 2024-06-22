@@ -6,7 +6,7 @@ A custom command generator for termux, easy to use
 
 2. You need to update some **necessary things**, using command:
 ```bash
-pkg update && pkg upgrade && apt upgrade
+pkg update -y && pkg upgrade -y && apt upgrade -y
 ```
 
 3. Install **curl**, using command:
