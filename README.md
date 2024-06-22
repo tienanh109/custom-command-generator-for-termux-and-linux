@@ -2,6 +2,7 @@
 A custom command generator for termux, easy to use
 
 ## Setup
+> NOTES: This tool will be updated continuously and requires internet to use
 1. First you need to install the **latest Termux** on their [GitHub](#)
 
 2. You need to update some **necessary things**, using command:
