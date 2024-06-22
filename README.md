@@ -42,4 +42,10 @@ Done! Now create your own command!!
 - And more!
 
 
-.... Some thing update soon!
+## How to report a problem?
+- Click the **issues** tab
+- Create a **new issue**
+- Fill in your complete **information and errors**
+
+## Credits:
+- [**tienanh109**](https://github.com/tienanh109) - Main developer of this tools
