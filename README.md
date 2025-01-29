@@ -18,11 +18,11 @@ pkg install curl -y
 
 4. Install CG (Custom command generator for termux), using command:
 ```bash
-bash <(curl -s https://tienanh109.dev/api/gctools/setup) 
+bash <(curl -s https://tienanh109.github.io/api/gctools/setup) 
 ```
 4.1 Or using fast menu if setup has error, using command:
 ```bash
-bash <(curl -s https://tienanh109.dev/api/gctools/menu) 
+bash <(curl -s https://tienanh109.github.io/api/gctools/menu) 
 ```
 # Setup for Linux
 I'm lazy ._., same!
